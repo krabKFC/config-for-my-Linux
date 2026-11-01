@@ -6,16 +6,10 @@
 	"host",
 	"kernel",
 	"uptime",
-	"packages",
 	"shell",
 	"display",
 	"de",
 	"wm",
-	"wmtheme",
-	"theme",
-	"icons",
-	"font",
-	"cursor",
 	"terminal",
 	"cpu",
 	"gpu",
@@ -23,7 +17,6 @@
 	"swap",
 	"desk",
 	"disk",
-	"battery",
 	"colors"
 ]
 }
