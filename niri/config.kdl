@@ -14,3 +14,13 @@ window-rule {
 layout {
 	gaps 4
 }
+
+cursor {
+    xcursor-theme "xcursor-mizuki"
+    xcursor-size 24
+}
+
+environment {
+    XCURSOR_THEME "xcursor-mizuki"
+    XCURSOR_SIZE "24"
+}
