@@ -13,4 +13,4 @@ Yeah, it's just a config for my Linux :3
 - **Cursor** - xcursor-mizuki
 ## future plans
 * [ ] Switch to another DM **or** Configuration this DM
-* [ ] Make your own cursor
+* [ ] Make your own cursor **or** Find a suitable one cursour
