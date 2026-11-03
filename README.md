@@ -16,4 +16,4 @@ Yeah, it's just a config for my Linux :3
 * [ ] Make your own cursor **or** Find a suitable one cursor
 * [ ] Configure Nautilus
 * [ ] Configure windows for Niri
-Also plan to try a different window manager
+* Also plan to try a different window manager
