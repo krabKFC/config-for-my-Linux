@@ -15,5 +15,5 @@ Yeah, it's just a config for my Linux :3
 * [x] Switch to another DM **or** Configuration this DM
 * [ ] Make your own cursor **or** Find a suitable one cursor
 * [ ] Configure Nautilus
-* [ ] Configure windows for Niri
-* Also plan to try a different window manager
+* [ ] Configure windows for Niri<br><br>
+Also plan to try a different WM
