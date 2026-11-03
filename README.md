@@ -4,7 +4,7 @@ Yeah, it's just a config for my Linux :3
 - **OS** - CachyOS
 - **Window Manager** - Niri
 - **Desktop Shell** - Noctalia
-- **Display Manager** - SDDM
+- **Display Manager** - LY
 - **File Manager** - Nautilus, Superfile
 - **Terminal** - Kitty, Alacritty
 - **Shell** - Fish
@@ -12,5 +12,5 @@ Yeah, it's just a config for my Linux :3
 - **Main font** - MesloLGL Nerd Font
 - **Cursor** - xcursor-mizuki
 ## future plans
-* [ ] Switch to another DM **or** Configuration this DM
-* [ ] Make your own cursor **or** Find a suitable one cursour
+* [x] Switch to another DM **or** Configuration this DM
+* [ ] Make your own cursor **or** Find a suitable one cursor
